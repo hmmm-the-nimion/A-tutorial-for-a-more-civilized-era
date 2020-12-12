@@ -15,7 +15,7 @@ echo "Martha! Look what the cat dragged in..What is your name, boy? "
 var name: string = readLine(stdin)
 echo "...I'm.., ", name, "..."
 ```
-Don't be fooled by the first line, that one is an actual comment in Nim. Programmers use comments, pieces of not executed lines of code, to clarify and document code. In alternative you can notify fellow peers about the state deplorable state of your code.
+Don't be fooled by the first line, that one is an actual comment in Nim. Programmers use comments, pieces of not executed lines of code, to clarify and document code. In alternative you can notify fellow peers about the deplorable state of your code.
 Comments can be multiline, such as:
 ```nim
 #[
