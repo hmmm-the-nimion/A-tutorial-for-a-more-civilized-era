@@ -5,8 +5,6 @@ Nim tutorial written in diruptesque
 
 # Nim Tutorial (Part I)
 
-*written by hmmm in disruptesque*
-
 This document is a tutorial for the programming language Nim. Nim is fairly elegant, expressive and **very** fast, much like your sports car, if you had one. Not much is required in the way of parsing this document, the usual *klišé* of programming concepts: variables, types, statements, the modern atoms of machine expression. The rest is kept very basic as it is generally known that it's the gentle hand that stirs the dim candle.
 
 Apparently, as a rule, this kind of document cannot qualify without an hello world example. A practical custom, from a forgotten era:
